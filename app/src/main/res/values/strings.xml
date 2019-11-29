@@ -1,0 +1,19 @@
+<resources xmlns:id="http://schemas.android.com/tools">
+    <string name="app_name">Mobilite</string>
+
+    <string-array name="country_arrays">
+        <item id="0">Maison 1</item>
+        <item id="1">Maison 2</item>
+        <item id="2">UTBM</item>
+        <item id="3">Gare</item>
+        <item id="4">Place Corbis</item>
+        <item id="5">Maison 3</item>
+        <item id="6">Cathédrale</item>
+        <item id="7">Cinéma</item>
+        <item id="8">Parc</item>
+        <item id="9">Etang des forges</item>
+        <item>Cinéma</item>
+    </string-array>
+
+
+</resources>
